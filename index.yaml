@@ -8,6 +8,6 @@ entries:
     digest: 63aecbb26be60f4850ab6bb59ef6fe4558ccd9f8a2cc6a73c50642b876ac6782
     name: asterisk-chart
     urls:
-    - https://github.com/srinivas511/asterisk-docker/asterisk-chart-0.1.0.tgz
+    - https://raw.githubusercontent.com/srinivas511/asterisk-docker/master/asterisk-chart-0.1.0.tgz
     version: 0.1.0
 generated: 2018-12-21T12:35:55.1104472-06:00
