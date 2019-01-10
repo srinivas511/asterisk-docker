@@ -3,11 +3,21 @@ entries:
   asterisk-chart:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2018-12-21T12:35:55.1114159-06:00
+    created: 2019-01-10T12:28:53.273493-06:00
     description: A Helm chart for Kubernetes
     digest: 63aecbb26be60f4850ab6bb59ef6fe4558ccd9f8a2cc6a73c50642b876ac6782
     name: asterisk-chart
     urls:
-    - https://raw.githubusercontent.com/srinivas511/asterisk-docker/master/asterisk-chart-0.1.0.tgz
+    - https://github.com/srinivas511/asterisk-docker/asterisk-chart-0.1.0.tgz
     version: 0.1.0
-generated: 2018-12-21T12:35:55.1104472-06:00
+  edge_ui:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: 2019-01-10T12:28:53.274026-06:00
+    description: Sport Event Version
+    digest: 1cc9270e46a8e0e7f2eef0f6a34b29d129bf0fe278c8ad47415f4c49a3bb49fc
+    name: edge_ui
+    urls:
+    - https://github.com/srinivas511/asterisk-docker/edge_ui-1.0.0.tgz
+    version: 1.0.0
+generated: 2019-01-10T12:28:53.270712-06:00
