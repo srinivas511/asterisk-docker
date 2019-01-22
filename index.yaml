@@ -3,21 +3,40 @@ entries:
   asterisk-chart:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-01-10T13:13:37.472265-06:00
+    created: 2019-01-21T19:47:37.665153-06:00
     description: A Helm chart for Kubernetes
     digest: 63aecbb26be60f4850ab6bb59ef6fe4558ccd9f8a2cc6a73c50642b876ac6782
     name: asterisk-chart
     urls:
     - https://raw.githubusercontent.com/srinivas511/asterisk-docker/master/asterisk-chart-0.1.0.tgz
     version: 0.1.0
+  edge-demo:
+  - apiVersion: v1
+    appVersion: "2.0"
+    created: 2019-01-21T19:47:37.667303-06:00
+    description: Edge Demo Aplication
+    digest: e434b74aaee20571e5d1452d5a1ce2ed66f968b7072a808b135d1104cc88597d
+    name: edge-demo
+    urls:
+    - https://raw.githubusercontent.com/srinivas511/asterisk-docker/master/edge-demo-2.0.0.tgz
+    version: 2.0.0
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: 2019-01-21T19:47:37.665481-06:00
+    description: Edge Demo Aplication
+    digest: 10558dcda12148e1f570fa0121a3516ebee6ce536a68b73e26ac6075504f214c
+    name: edge-demo
+    urls:
+    - https://raw.githubusercontent.com/srinivas511/asterisk-docker/master/edge-demo-1.0.0.tgz
+    version: 1.0.0
   edgeui:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-01-10T13:13:37.472519-06:00
+    created: 2019-01-21T19:47:37.668027-06:00
     description: Sport Event Version
     digest: 7fe0fc94b4400847a28af9b4fda35e3aeba1e2e9492d7544cb83eba08ed10aa5
     name: edgeui
     urls:
     - https://raw.githubusercontent.com/srinivas511/asterisk-docker/master/edgeui-1.0.0.tgz
     version: 1.0.0
-generated: 2019-01-10T13:13:37.471019-06:00
+generated: 2019-01-21T19:47:37.662959-06:00
