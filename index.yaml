@@ -3,7 +3,7 @@ entries:
   asterisk-chart:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-01-21T19:47:37.665153-06:00
+    created: 2019-05-14T15:31:27.967974-05:00
     description: A Helm chart for Kubernetes
     digest: 63aecbb26be60f4850ab6bb59ef6fe4558ccd9f8a2cc6a73c50642b876ac6782
     name: asterisk-chart
@@ -13,30 +13,39 @@ entries:
   edge-demo:
   - apiVersion: v1
     appVersion: "2.0"
-    created: 2019-01-21T19:47:37.667303-06:00
+    created: 2019-05-14T15:31:27.969679-05:00
     description: Edge Demo Aplication
-    digest: e434b74aaee20571e5d1452d5a1ce2ed66f968b7072a808b135d1104cc88597d
+    digest: 1c8ce64782c74d606fc252238777ee1e7ffab3e68455d9632ae31b22075c330e
     name: edge-demo
     urls:
     - https://raw.githubusercontent.com/srinivas511/asterisk-docker/master/edge-demo-2.0.0.tgz
     version: 2.0.0
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-01-21T19:47:37.665481-06:00
+    created: 2019-05-14T15:31:27.968816-05:00
     description: Edge Demo Aplication
-    digest: 10558dcda12148e1f570fa0121a3516ebee6ce536a68b73e26ac6075504f214c
+    digest: 303276b16ef1ff5f1f90c13d29eb7d7b379fc171fb4736d78fa8ca3c88ca07e2
     name: edge-demo
     urls:
     - https://raw.githubusercontent.com/srinivas511/asterisk-docker/master/edge-demo-1.0.0.tgz
     version: 1.0.0
   edgeui:
   - apiVersion: v1
+    appVersion: "2.0"
+    created: 2019-05-14T15:31:27.970778-05:00
+    description: Concert Event Version
+    digest: 910df7f0b0e29deee7c5bf2fc59c5078df65113b0a9a9255389de2fdc74e9bf7
+    name: edgeui
+    urls:
+    - https://raw.githubusercontent.com/srinivas511/asterisk-docker/master/edgeui-2.0.0.tgz
+    version: 2.0.0
+  - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-01-21T19:47:37.668027-06:00
+    created: 2019-05-14T15:31:27.970546-05:00
     description: Sport Event Version
     digest: 7fe0fc94b4400847a28af9b4fda35e3aeba1e2e9492d7544cb83eba08ed10aa5
     name: edgeui
     urls:
     - https://raw.githubusercontent.com/srinivas511/asterisk-docker/master/edgeui-1.0.0.tgz
     version: 1.0.0
-generated: 2019-01-21T19:47:37.662959-06:00
+generated: 2019-05-14T15:31:27.9635-05:00
